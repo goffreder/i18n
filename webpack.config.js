@@ -20,7 +20,7 @@ module.exports = {
     },
 
     devServer: {
-        hot: true
+        // hot: true
     },
 
     module: {
@@ -38,6 +38,12 @@ module.exports = {
         }, {
             test: /\.css$/,
             loader: 'style!css!postcss'
+        }, {
+            test: /\.json$/,
+            loader: 'json'
+        }, {
+            test: /\.po$/,
+            loader: 'json!po'
         }]
     },
 
@@ -62,7 +68,7 @@ module.exports = {
     ],
 
     resolve: {
-        extensions: ['', '.js', '.jsx'],
+        extensions: ['', '.js', '.jsx', '.json', '.po'],
         modulesDirectories: ['node_modules', 'app', 'components']
     }
 };

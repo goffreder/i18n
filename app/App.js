@@ -1,11 +1,33 @@
-class Test extends React.Component {
-    render() {
-        console.log('Test');
+import Test from 'Test';
 
+class App extends React.Component {
+    constructor() {
+        super();
+
+        this.state = {
+            currentLanguage: 'en'
+        };
+    }
+
+    static childContextTypes = {
+        currentLanguage: React.PropTypes.string
+    };
+
+    getChildContext() {
+        return {
+            currentLanguage: this.state.currentLanguage
+        };
+    }
+
+    render() {
         return (
-            <div>It works!</div>
+            <div>
+                <button onClick={() => { this.setState({ currentLanguage: 'en' }); }}>English</button>
+                <button onClick={() => { this.setState({ currentLanguage: 'it' }); }}>Italian</button>
+                <Test />
+            </div>
         );
     }
 }
 
-ReactDOM.render(<Test/>, document.getElementById('app'));
+ReactDOM.render(<App />, document.getElementById('app'));

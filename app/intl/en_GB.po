@@ -1,0 +1,636 @@
+#
+# Translators:
+# Stefano Gandolfo <stefano.gandolfo@appfactory.it>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Wyscout Graphics\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-18 17:14+0100\n"
+"PO-Revision-Date: 2015-12-22 09:23+0000\n"
+"Last-Translator: Emanuele Biancardi <emanuele.biancardi@wyscout.com>\n"
+"Language-Team: English (http://www.transifex.com/wyscout-1/wyscout-graphics/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: nosource
+msgid "#objectname#: Competitions"
+msgstr "#objectname#: Competitions"
+
+#: nosource
+msgid "#objectname#: Countries"
+msgstr "#objectname#: Countries"
+
+#: nosource
+msgid "#objectname#: Players"
+msgstr "#objectname#: Players"
+
+#: nosource
+msgid "#objectname#: Sheet"
+msgstr "#objectname#: Sheet"
+
+#: nosource
+msgid "#objectname#: Teams"
+msgstr "#objectname#: Teams"
+
+#: nosource
+msgid "1vs1 Defense"
+msgstr "1vs1 Defense"
+
+#: nosource
+msgid "1vs1 Dribbling"
+msgstr "1vs1 Dribbling"
+
+#: nosource
+msgid "Acceleration"
+msgstr "Acceleration"
+
+#: nosource
+msgid "acceleration_PL"
+msgstr "Accelerations"
+
+#: nosource
+msgid "aerial abilities"
+msgstr "Aerial Duel"
+
+#: nosource
+msgid "aerial abilities_PL"
+msgstr "Aerial Duels"
+
+#: nosource
+msgid "Aerial Duel"
+msgstr "Aerial Duel"
+
+#: nosource
+msgid "All Events"
+msgstr "All Events"
+
+#: nosource
+msgid "ALL_EVENTS"
+msgstr "All Events"
+
+#: nosource
+msgid "ALL_EVENTS_PL"
+msgstr "All Events"
+
+#: nosource
+msgid "Arrowsmap"
+msgstr "Arrowsmap"
+
+#: nosource
+msgid "Assist"
+msgstr "Assist"
+
+#: nosource
+msgid "assist goal_p"
+msgstr "Assist"
+
+#: nosource
+msgid "assist goal_p_PL"
+msgstr "Assists"
+
+#: nosource
+msgid "assist_p"
+msgstr "Key Pass"
+
+#: nosource
+msgid "assist_p_PL"
+msgstr "Key Passes"
+
+#: nosource
+msgid "Ball Lost"
+msgstr "Ball Lost"
+
+#: nosource
+msgid "ball_lost_p"
+msgstr "Ball Lost"
+
+#: nosource
+msgid "ball_lost_p_PL"
+msgstr "Balls Lost"
+
+#: nosource
+msgid "Bench"
+msgstr "Bench"
+
+#: nosource
+msgid "Career"
+msgstr "Career"
+
+#: nosource
+msgid "Championship"
+msgstr "Championship"
+
+#: nosource
+msgid "Clearance"
+msgstr "Clearance"
+
+#: nosource
+msgid "clearance_p"
+msgstr "Clearance"
+
+#: nosource
+msgid "clearance_p_PL"
+msgstr "Clearances"
+
+#: nosource
+msgid "Corner Kick"
+msgstr "Corner Kick"
+
+#: nosource
+msgid "Countries"
+msgstr "Countries"
+
+#: nosource
+msgid "Cross"
+msgstr "Cross"
+
+#: nosource
+msgid "cross_p"
+msgstr "Cross"
+
+#: nosource
+msgid "cross_p_PL"
+msgstr "Crosses"
+
+#: nosource
+msgid "Defending Duel"
+msgstr "Defending Duel"
+
+#: nosource
+msgid "direct free kick_p"
+msgstr "Free Kick Shoot"
+
+#: nosource
+msgid "direct free kick_p_PL"
+msgstr "Free Kick Shoots"
+
+#: nosource
+msgid "Disciplinary"
+msgstr "Disciplinary"
+
+#: nosource
+msgid "dribbling_p"
+msgstr "Dribbling"
+
+#: nosource
+msgid "dribbling_p_PL"
+msgstr "Dribblings"
+
+#: nosource
+msgid "Events"
+msgstr "Events"
+
+#: nosource
+msgid "Foul"
+msgstr "Foul"
+
+#: nosource
+msgid "Free Kick Cross"
+msgstr "Free Kick Cross"
+
+#: nosource
+msgid "Free Kick Shot"
+msgstr "Free Kick Shot"
+
+#: nosource
+msgid "Goal"
+msgstr "Goal"
+
+#: nosource
+msgid "goal_p"
+msgstr "Goal"
+
+#: nosource
+msgid "goal_p_PL"
+msgstr "Goals"
+
+#: nosource
+msgid "Head Shot"
+msgstr "Head Shot"
+
+#: nosource
+msgid "head_shoot_p"
+msgstr "Head Shot"
+
+#: nosource
+msgid "head_shoot_p_PL"
+msgstr "Head Shots"
+
+#: nosource
+msgid "Heatmap"
+msgstr "Heatmap"
+
+#: nosource
+msgid "Histogram"
+msgstr "Histogram"
+
+#: nosource
+msgid "indirect free kick_p"
+msgstr "Free Kick Cross"
+
+#: nosource
+msgid "indirect free kick_p_PL"
+msgstr "Free Kick Crosses"
+
+#: nosource
+msgid "Int. Career"
+msgstr "Int. Career"
+
+#: nosource
+msgid "Interception"
+msgstr "Interception"
+
+#: nosource
+msgid "International Career"
+msgstr "International Career"
+
+#: nosource
+msgid "International Competitions"
+msgstr "International Competitions"
+
+#: nosource
+msgid "Key Pass"
+msgstr "Key Pass"
+
+#: nosource
+msgid "Last 12 Months"
+msgstr "Last 12 Months"
+
+#: nosource
+msgid "Long Range Pass"
+msgstr "Long Range Pass"
+
+#: nosource
+msgid "long-range kick_p"
+msgstr "Long Range Pass"
+
+#: nosource
+msgid "long-range kick_p_PL"
+msgstr "Long Range Passes"
+
+#: nosource
+msgid "Lost/Won"
+msgstr "Lost/Won"
+
+#: nosource
+msgid "Main Countries"
+msgstr "Main Countries"
+
+#: nosource
+msgid "man_marking_p"
+msgstr "1vs1 Defense"
+
+#: nosource
+msgid "man_marking_p_PL"
+msgstr "1vs1 Defenses"
+
+#: nosource
+msgid "marking"
+msgstr "Defending Duel"
+
+#: nosource
+msgid "marking_PL"
+msgstr "Defending Duels"
+
+#: nosource
+msgid "Navigate"
+msgstr "Navigate"
+
+#: nosource
+msgid "Offside"
+msgstr "Offside"
+
+#: nosource
+msgid "offside_PL"
+msgstr "Offsides"
+
+#: nosource
+msgid "off_duel"
+msgstr "Attacking Duel"
+
+#: nosource
+msgid "off_duel_PL"
+msgstr "Attacking Duels"
+
+#: nosource
+msgid "Opportunity"
+msgstr "Opportunity"
+
+#: nosource
+msgid "opportunity_p"
+msgstr "Opportunity"
+
+#: nosource
+msgid "opportunity_p_PL"
+msgstr "Opportunities"
+
+#: nosource
+msgid "Other Countries"
+msgstr "Other Countries"
+
+#: nosource
+msgid "Pass"
+msgstr "Pass"
+
+#: nosource
+msgid "Penalty"
+msgstr "Penalty"
+
+#: nosource
+msgid "penalty_PL"
+msgstr "Penalties"
+
+#: nosource
+msgid "Per Match Average"
+msgstr "Per Match Average"
+
+#: nosource
+msgid "Pie"
+msgstr "Pie"
+
+#: nosource
+msgid "Play Mode"
+msgstr "Play Mode"
+
+#: nosource
+msgid "PlayerSheet"
+msgstr "Player's Sheet"
+
+#: nosource
+msgid "playmaking"
+msgstr "Pass"
+
+#: nosource
+msgid "playmaking_PL"
+msgstr "Passes"
+
+#: nosource
+msgid "Pointsmap"
+msgstr "Pointsmap"
+
+#: nosource
+msgid "Rankings"
+msgstr "Rankings"
+
+#: nosource
+msgid "Recovery"
+msgstr "Recovery"
+
+#: nosource
+msgid "recovery_p"
+msgstr "Recovery"
+
+#: nosource
+msgid "recovery_p_PL"
+msgstr "Recoveries"
+
+#: nosource
+msgid "Regular"
+msgstr "Regular"
+
+#: nosource
+msgid "Roundup Career"
+msgstr "Roundup Career"
+
+#: nosource
+msgid "Scorers"
+msgstr "Scorers"
+
+#: nosource
+msgid "Sheet"
+msgstr "Sheet"
+
+#: nosource
+msgid "shoot_p"
+msgstr "Shot"
+
+#: nosource
+msgid "shoot_p_PL"
+msgstr "Shots"
+
+#: nosource
+msgid "Shot"
+msgstr "Shot"
+
+#: nosource
+msgid "Smart Pass"
+msgstr "Smart Pass"
+
+#: nosource
+msgid "Substitutions"
+msgstr "Substitutions"
+
+#: nosource
+msgid "Table"
+msgstr "Table"
+
+#: nosource
+msgid "Team"
+msgstr "Team"
+
+#: nosource
+msgid "Through Pass"
+msgstr "Through Pass"
+
+#: nosource
+msgid "through pass_p"
+msgstr "Through Pass"
+
+#: nosource
+msgid "through pass_p_PL"
+msgstr "Through Passes"
+
+#: nosource
+msgid "Transfers"
+msgstr "Transfers"
+
+#: nosource
+msgid "useful_or_useless_fouls"
+msgstr "Foul"
+
+#: nosource
+msgid "useful_or_useless_fouls_PL"
+msgstr "Fouls"
+
+#: nosource
+msgid "Winning Foul"
+msgstr "Winning Foul"
+
+#: nosource
+msgid "winning_fouls_p"
+msgstr "Winning Foul"
+
+#: nosource
+msgid "winning_fouls_p_PL"
+msgstr "Winning Fouls"
+
+#: nosource
+msgid "Year"
+msgstr "Year"
+
+#: nosource
+msgid "goal_conceded"
+msgstr "Goal Conceded"
+
+#: nosource
+msgid "goal_conceded_PL"
+msgstr "Goals Conceded"
+
+#: nosource
+msgid "save"
+msgstr "Save"
+
+#: nosource
+msgid "save_PL"
+msgstr "Saves"
+
+#: nosource
+msgid "reflexes"
+msgstr "Reflexes"
+
+#: nosource
+msgid "reflexes_PL"
+msgstr "Reflexes"
+
+#: nosource
+msgid "exit"
+msgstr "Leaving Line"
+
+#: nosource
+msgid "exit_PL"
+msgstr "Leaving Line"
+
+#: nosource
+msgid "long pass"
+msgstr "Distribution"
+
+#: nosource
+msgid "long pass_PL"
+msgstr "Distributions"
+
+#: nosource
+msgid "Weight"
+msgstr "Weight"
+
+#: nosource
+msgid "Birth date"
+msgstr "Birth date"
+
+#: nosource
+msgid "Birth country"
+msgstr "Birth country"
+
+#: nosource
+msgid "Passport country"
+msgstr "Passport country"
+
+#: nosource
+msgid "Foot"
+msgstr "Foot"
+
+#: nosource
+msgid "Foot_right"
+msgstr "Right"
+
+#: nosource
+msgid "Foot_left"
+msgstr "Left"
+
+#: nosource
+msgid "Goalkeepers"
+msgstr "Goalkeepers"
+
+#: nosource
+msgid "Defenders"
+msgstr "Defenders"
+
+#: nosource
+msgid "Midfielders"
+msgstr "Midfielders"
+
+#: nosource
+msgid "Strikers"
+msgstr "Strikers"
+
+#: nosource
+msgid "Other Competitions"
+msgstr "Other Competitions"
+
+#: nosource
+msgid "Positive"
+msgstr "Positive"
+
+#: nosource
+msgid "Neutral"
+msgstr "Neutral"
+
+#: nosource
+msgid "Negative"
+msgstr "Negative"
+
+#: nosource
+msgid "Rank"
+msgstr "Rank"
+
+#: nosource
+msgid "Rank_short"
+msgstr "Rank"
+
+#: nosource
+msgid "Points"
+msgstr "Points"
+
+#: nosource
+msgid "MP"
+msgstr "MP"
+
+#: nosource
+msgid "Won"
+msgstr "Won"
+
+#: nosource
+msgid "Draw"
+msgstr "Draw"
+
+#: nosource
+msgid "Lost"
+msgstr "Lost"
+
+#: nosource
+msgid "Goals"
+msgstr "Goals"
+
+#: nosource
+msgid "Flag"
+msgstr "Bandiera"
+
+#: nosource
+msgid "Name"
+msgstr "Name"
+
+#: nosource
+msgid "Height"
+msgstr "Height"
+
+#: nosource
+msgid "pass_PL"
+msgstr "Smart Passes"
+
+#: nosource
+msgid "interception_PL"
+msgstr "Interceptions"
+
+#: nosource
+msgid "corner kick_p_PL"
+msgstr "Corner Kicks"
+
+#: nosource
+msgid "clearance"
+msgstr "Clearance"
+
+#: nosource
+msgid "clearance_PL"
+msgstr "Clearances"
