@@ -5,7 +5,7 @@ class App extends React.Component {
         super();
 
         this.state = {
-            currentLanguage: 'en'
+            currentLanguage: 'en_GB'
         };
     }
 
@@ -22,8 +22,9 @@ class App extends React.Component {
     render() {
         return (
             <div>
-                <button onClick={() => { this.setState({ currentLanguage: 'en' }); }}>English</button>
-                <button onClick={() => { this.setState({ currentLanguage: 'it' }); }}>Italian</button>
+                <button onClick={() => { this.setState({ currentLanguage: 'en_GB' }); }}>English</button>
+                <button onClick={() => { this.setState({ currentLanguage: 'it_IT' }); }}>Italian</button>
+                <button onClick={() => { this.setState({ currentLanguage: 'en_SP' }); }}>Spanish</button>
                 <Test />
             </div>
         );

@@ -1,10 +1,19 @@
-import en from 'intl/en_GB';
-import it from 'intl/it_IT';
+const languages = {};
 
-const languages = {
-    en,
-    it
-};
+function importLanguage(language) {
+    try {
+        languages[language] = require('intl/' + language);
+
+        return languages[language];
+    } catch (e) {
+        console.log(e);
+        return false;
+    }
+}
+
+function getLanguageNotFoundWarning(language) {
+    return 'WARNING: Language ' + language + ' not found.';
+}
 
 export default (ComposedComponent) => {
     return class I15dComponent extends ComposedComponent {
@@ -15,7 +24,17 @@ export default (ComposedComponent) => {
         };
 
         l6e = (key) => {
-            return languages[this.context.currentLanguage][key] || `{${key}}`;
+            let language = this.context.currentLanguage;
+
+            if (!languages[this.context.currentLanguage]) {
+                if (!importLanguage(this.context.currentLanguage)) {
+                    console.warn(getLanguageNotFoundWarning(this.context.currentLanguage));
+
+                    language = this.context.defaultLanguage;
+                }
+            }
+
+            return languages[language][key] || `{${key}}`;
         };
     };
 };
